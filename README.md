@@ -8,7 +8,7 @@ This dashboard provides a comprehensive overview of Netflix movies and TV shows,
 
 **Data Preparation and Ingestion:** Collect and prepare data from Netflix sources for analysis.
 
-**Data Model: **Construct a data model to organize and relate the data for visualization.
+**Data Model:** Construct a data model to organize and relate the data for visualization.
 
 **Dashboard Background and Image:** Customize the dashboard background and add relevant images.
 
